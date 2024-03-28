@@ -2,7 +2,7 @@
 
 ## Overview
 
-It is a project about analyzing Toronto's Historical Environmental Data to Demonstrate the Effects of Global Warming.
+It is a project about analyzing Toronto's Historical Environmental Data to Demonstrate the Effects of Global Warming.The data which being used is directly from Environment and Climate Change Canada.
 
 To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
 
