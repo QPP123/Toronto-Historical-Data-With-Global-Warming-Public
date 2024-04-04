@@ -1,13 +1,12 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: Analyzing Toronto's Historical Climate Data with Global Warming Impacts"
+subtitle: "A study of Toronto's environmental data over the last thirty years"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
+  - Kuiyao Qiao
+thanks: "Code and data are available at: https://github.com/QPP123/Toronto-Historical-Data-With-Global-Warming-Public"
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This essay uses the Toronto Monthly Weather Normals Dataset to investigate the relationship between thirty years of weather data from Toronto and global warming trends. By analyzing long-term patterns in temperature, precipitation, and other climatic variables, the study identifies clear signals of climate change within the local context of Toronto. The findings underscore the broader implications of rising temperatures and changing weather patterns, linking local observations to global climate change phenomena and providing evidence for the urgent need for environmental policy and urban planning to adapt to these shifts."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -24,6 +23,8 @@ library(palmerpenguins)
 
 
 # Introduction
+
+The global discourse on climate change is increasingly underscored by localized studies that trace the manifestation of global warming through decades of weather data. This paper centers on the Toronto Monthly Weather Normals Dataset, which encapsulates thirty years of detailed meteorological data, to explore the nuances of climate change in Toronto. Through a comprehensive analysis of this dataset, the research seeks to draw correlations between the observed long-term weather trends in Toronto and the broader global warming patterns. The study delves into the intricacies of temperature fluctuations, precipitation changes, and other climatic variations, providing a nuanced understanding of how global climate dynamics are reflected in Toronto's local environment. This analysis contributes to the scientific understanding of climate change. It informs policy development and urban planning strategies, emphasizing the critical role of localized climate data in addressing the global challenge of climate change.
 
 You can and should cross-reference sections and sub-sections. We use @citeR and @rohan.
 
